@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15984989900",
+    "project_id": "onoshop-1f75e",
+    "storage_bucket": "onoshop-1f75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15984989900:android:eb08f3585c12b591df5469",
+        "android_client_info": {
+          "package_name": "com.example.onoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15984989900-a2l5g67k8drema0arrgapaqu8k6ot7jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9u6cY-3OlRh1m5nQA-Tc7tCQs6HbXkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15984989900-a2l5g67k8drema0arrgapaqu8k6ot7jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
